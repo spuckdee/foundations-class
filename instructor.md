@@ -4,7 +4,8 @@ This is an extended desc
 
 ### Details:
 *Redlands CA
-  *Joshua
+  
+    *Joshua
 
 *Tuesday Mar 24 2015
 
