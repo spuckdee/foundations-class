@@ -3,7 +3,7 @@ list instructor separately
 This is an extended desc
 
 ### Details:
-*Redlands CA
+* Redlands CA
   
     *Joshua
 
