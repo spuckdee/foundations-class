@@ -8,4 +8,4 @@ My first Repo   http://training.github.com/kit/foundations
  
  *Jordan
  
- 
+ cleanup instructor
